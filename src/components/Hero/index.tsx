@@ -1,5 +1,3 @@
-// import styles from './Hero.module.css'
-
 import { Form } from './styles'
 import { Container } from '../../global'
 

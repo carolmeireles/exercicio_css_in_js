@@ -1,7 +1,4 @@
 import { FormEvent, useState } from 'react'
-//import EstiloGlobal from '../../global'
-
-//import styles from './FormVagas.module.css'
 import { Form, BotaoPesquisar, Campo } from './styles'
 
 type Props = {

@@ -1,4 +1,3 @@
-// import styles from './Vaga.module.css'
 import { ItemVaga } from './styles'
 
 type Props = {
